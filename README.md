@@ -24,7 +24,7 @@
 
 ### 2. Install Dependencies:
 ```
-$ cd hack_smart_contracts
+$ cd auditing-smart-contracts
 $ npm install 
 ```
 
